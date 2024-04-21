@@ -4,5 +4,5 @@
 /**
  * 
  */
-module verifica.Zangrando {
+module verifica {
 }
